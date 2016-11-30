@@ -7,6 +7,7 @@ Setup:
 
  1. Add credentials for WiFi and VSTS API key.
  2. Add the build definition IDs to the config.
+ 3. Update the callback hell in *app.lua*.
 
 ### Credentials ###
 Create a file *credentials.lua*
